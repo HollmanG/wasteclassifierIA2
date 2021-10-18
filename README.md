@@ -16,10 +16,8 @@ Dataset utilizado: <br>
 https://drive.google.com/file/d/1c32dl3U0AstUNxM1RRkatOpREu-RhLp8/view?usp=sharing
 
 Datasets base: <br>
-
 Garbage Classification: <br>
-https://www.kaggle.com/asdasdasasdas/garbage-classification 
-
+https://www.kaggle.com/asdasdasasdas/garbage-classification <br>
 Garbage Classification (12 classes): <br>
 https://www.kaggle.com/mostafaabla/garbage-classification 
 
