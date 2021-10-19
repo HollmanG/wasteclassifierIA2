@@ -21,6 +21,9 @@ https://www.kaggle.com/asdasdasasdas/garbage-classification <br>
 Garbage Classification (12 classes): <br>
 https://www.kaggle.com/mostafaabla/garbage-classification 
 
+Pesos obtenidos: <br>
+https://drive.google.com/drive/folders/1M95R3bUcugJG3x5q1Tt2jxXxJpDSXVHq?usp=sharing
+
 Modelos: <br> 
 YOLOv3, Darknet. 
 
